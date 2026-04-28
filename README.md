@@ -26,9 +26,12 @@ translation, plus all models EU-PT translations of two these datasets.
 ### Evaluation Metrics:
 
 SacreBLEU — Precision-based n-gram overlap metric. [[Paper](https://aclanthology.org/W18-6319/)]
+
 ROUGE-L — Longest common subsequence metric. [[Paper](https://aclanthology.org/W04-1013/)]
+
 COMET-22 — Neural MT evaluation metric based on cross-lingual encoders (
 XLM-RoBERTa). [[Paper](https://aclanthology.org/2020.emnlp-main.213/)]
+
 VID (Variety Identification) — Ratio of model outputs classified as EU-PT vs. BR-PT, using a dedicated language variety
 identifier. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34705)]
 

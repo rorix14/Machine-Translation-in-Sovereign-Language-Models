@@ -20,7 +20,7 @@ content categories. [[Paper](https://aclanthology.org/2023.tacl-1.39/)]
 NTrex-128 — News-domain translation benchmark with 1,997 professionally translated sentences across 128 languages,
 including EU-PT and BR-PT. [[Paper](https://aclanthology.org/2022.sumeval-1.4/)]
 
-The "datasets" contains all the datasets from this project: FRMT and NTrex english text with EU-PT references
+The "datasets" folder contains all the datasets from this project: FRMT and NTrex english text with EU-PT references
 translation, plus all models EU-PT translations of two these datasets.
 
 ### Evaluation Metrics:

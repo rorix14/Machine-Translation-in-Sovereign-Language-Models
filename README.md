@@ -47,3 +47,5 @@ identifier. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34705)]
    Open and run evaluate_model.ipynb. This notebook loads the translation outputs from datasets/ and computes all four
    metrics (SacreBLEU, ROUGE-L, COMET-22, VID) against the reference translations. This was used to evaluate the models
    translations outputs.
+
+[![DOI](https://zenodo.org/badge/1223906464.svg)](https://doi.org/10.5281/zenodo.19925586)
